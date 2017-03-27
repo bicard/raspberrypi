@@ -1,0 +1,7 @@
+Rotary Encoder connections:
+CLK: GPIO11
+DATA: GPIO12
+SW: GPIO13
+
+Rotate CW / CCW and globalcounter changes
+Press switch and globalcounter rests to 0
